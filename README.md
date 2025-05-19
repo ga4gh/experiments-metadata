@@ -5,4 +5,8 @@ When a researcher downloads a genomic dataset, they typically get CRAM or VCF do
 
 Without metadata explaining the context, researchers cannot make sense of results from experiments in genomics, epigenomics, and more. The GA4GH Discovery Work Stream is aiming to produce a minimal checklist of metadata needed to characterise -omics datasets. The Experiments Metadata Standard will provide a dictionary of properties that makes it easier to search for experiments and to understand their results for analysis.
 
-For more information see: [experiments-metadata-standards-scope](https://www.ga4gh.org/document/experiments-metadata-standards-scope-statement/)
+For more information on the checklist scope, see: [Checklist v1 Scope Statement](https://www.ga4gh.org/document/experiments-metadata-standards-scope-statement/)
+
+Two documents are being presented for this first version of the checklist:
+* [Core](./core.md): This checklist contains properties that are relevant to any sequencing assay.
+* [Identifiers](./identifiers.md): This checklist contains identifiers that are relevant to include with a genomic dataset.
