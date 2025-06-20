@@ -13,7 +13,7 @@ This checklist contains identifiers that are relevant to include with a genomic 
 
 ### Checklist
 
-| Field name         | Definition                                                                                                                                                           | Is a Discovery property | Mandatory | Type of data expected                   | Examples          |
+| Field Name         | Definition                                                                                                                                                           | Is a Discovery property | Mandatory | Type of data expected                   | Examples          |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----------|-----------------------------------------|-------------------|
 | template_id        | Version of the checklist used, defining properties to capture and their validation rules.                                                                            | FALSE                   | FALSE     | String representing a unique identifier | GA4GH_EXPMETA_v1  |
 | study_id           | Unique accession number for a study after registering a study with the an archival service.                                                                          | FALSE                   | TRUE      | String representing a unique identifier | STUDY_1           |
