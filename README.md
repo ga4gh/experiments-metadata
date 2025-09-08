@@ -9,7 +9,15 @@ Without metadata explaining the context, researchers cannot make sense of result
 
 For more information on our group, [please visit our GA4GH web page](https://www.ga4gh.org/product/experiments-metadata-standard/).
 
-For more information on the checklist scope, see: [Checklist v1 Scope Statement](https://www.ga4gh.org/document/experiments-metadata-standards-scope-statement/)
+## Scope
+
+[![ga4gh_expmeta_scope.png](img/ga4gh_expmeta_scope.png)]
+
+While the term “metadata” can be very broad (data that describes data), this Discovery Workstream subgroup exclusively focuses on the properties of the methodology and equipment  used in a genomic experiment, and more precisely on library preparation and instrument run. It provides context around the preparation of biological samples into libraries for a given laboratory experiment run, and the execution context for that run. Interoperability with other GA4GH standards will be key to the adoption of the standard.
+
+In the first phase, the group will focus exclusively on genomic sequencing instruments generating reads (high-throughput sequencing experiments, such as WGS, RNA-Seq, and Methyl-Seq). Future specification updates may consider the inclusion of other instruments, quality control metrics and -omics data, such as genotyping arrays, proteomics, and metabolomics, based on the evolving needs within the genomics community. Follow this link to our current working document.
+
+The following topics are therefore considered out of scope (and will remain so): clinical data, biological sample descriptors, downstream data processing, and analysis. The discussions revolve around the content of the checklist, rather than the formats, leaving the latter to the DaMaSC sub-working group.
 
 ## Core Properties Checklist
 Two documents are being presented for this first version of the checklist:
