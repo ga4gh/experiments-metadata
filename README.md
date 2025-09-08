@@ -11,7 +11,7 @@ For more information on our group, [please visit our GA4GH web page](https://www
 
 ## Scope
 
-[![ga4gh_expmeta_scope.png](img/ga4gh_expmeta_scope.png)]
+![ga4gh_expmeta_scope.png](img/ga4gh_expmeta_scope.png)
 
 While the term “metadata” can be very broad (data that describes data), this Discovery Workstream subgroup exclusively focuses on the properties of the methodology and equipment  used in a genomic experiment, and more precisely on library preparation and instrument run. It provides context around the preparation of biological samples into libraries for a given laboratory experiment run, and the execution context for that run. Interoperability with other GA4GH standards will be key to the adoption of the standard.
 
