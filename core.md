@@ -5,7 +5,7 @@ This checklist contains properties that are relevant to any sequencing assay.
 
 ### Columns Explanation
 
-* **Field Name**: A suggestion on the way to name this property in one's model.
+* **Field Label**: A suggestion on the way to name this property in one's model.
 * **Definition**: What does this property represent?
 * **Is a Discovery property**: Whether the property is considered a desirable criterion to discover datasets in a given database. For instance, would this property be good to be supported in a GA4GH Beacon search?
 * **Mandatory**: Is the property considered essential to properly understand the nature of the dataset? Should it be provided for every release dataset?
