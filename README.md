@@ -16,6 +16,9 @@ Two documents are being presented for this first version of the checklist:
 * [Core](./core.md): This checklist contains properties that are relevant to any sequencing assay.
 * [Identifiers](./identifiers.md): This checklist contains identifiers that are relevant to include with a genomic dataset.
 
+## Mappings / Implementations
+[This section](mappings/README.md) provides a mapping of existing platforms and projects to the Experiments Metadata Checklist.
+
 ### Useful documentation
 
 * [Record of past decisions](https://docs.google.com/document/d/1zyIij2YPpI9J8uJKH71mzPLK-vP7Nza90BZ8zkd56og/edit?tab=t.0#bookmark=id.4js2a3jhlsa6)
