@@ -2,7 +2,7 @@
 
 This checklist contains identifiers that are relevant to include with a genomic dataset.
 
-This checklist contains identifiers that are relevant to include with a genomic dataset. These identifiers help ensure that data elements can be referenced consistently within a given context.
+These identifiers help ensure that data elements can be referenced consistently within a given context.
 Important: The identifiers listed here are intended to be locally unique, meaning unique within a single database, project, or archive, and not globally unique across all systems. This approach supports internal consistency while allowing flexibility for integration with external identifier systems when needed.
 
 ### Columns explanation
