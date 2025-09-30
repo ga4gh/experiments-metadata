@@ -25,3 +25,4 @@ Two documents are being presented for this first version of the checklist:
 
 * [Record of past decisions](https://docs.google.com/document/d/1zyIij2YPpI9J8uJKH71mzPLK-vP7Nza90BZ8zkd56og/edit?tab=t.0#bookmark=id.4js2a3jhlsa6)
 * [Meetings Agenda and Minutes](https://docs.google.com/document/d/1FPgOT39dINkeVj0S4oeumzJcooGOcVcCIIGc4icXoyU/edit)
+* [Progress as a flow diagram](documentation/progress.md)
