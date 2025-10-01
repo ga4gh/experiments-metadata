@@ -1,4 +1,4 @@
-## Identifiers Checklist
+# Progess Flow of the GA4GH Experiments Metadata
 
 
 ```mermaid
