@@ -25,6 +25,8 @@ Two documents are being presented for this first version of the checklist:
 * [This video](https://us02web.zoom.us/rec/share/Kmd0MLvoPVKDIDx4cp8LdAteGdZM30EKtA33MRRnZ7IBWt6xXtvdFLxF8nsCTKWQ.w1tOxxUcQ8WMouBi) explains the rationale behind the creation of the Experiments Metadata Checklist, highlighting key use cases and outlining future plans.
 * [The slides](https://docs.google.com/presentation/d/1L1hDdw002gZL4d9pnUtJXI1R5WFmg3ta-gnD763DIH8/edit) are also available.
 
+### Roadmap
+* [This flowchart](documentation/progress.md) outlines the steps taken by the Experiments Metadata group in developing the checklist. 
 
 ### Relevant links
 * [Record of past decisions](https://docs.google.com/document/d/1zyIij2YPpI9J8uJKH71mzPLK-vP7Nza90BZ8zkd56og/edit?tab=t.0#bookmark=id.4js2a3jhlsa6)
