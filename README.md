@@ -18,7 +18,6 @@ Two documents are being presented for this first version of the checklist:
 
 ## Mappings / Implementations
 * [The Mappings section](mappings/README.md) provides a mapping of existing platforms and projects to the GA4GH Experiments Metadata Checklist.
-* [The Use Cases section](use_cases/README.md) provides more detail about why and how one can use this checklist.
 
 ## Documentation
 
