@@ -1,5 +1,5 @@
-Provided here are mappings from the Experiments Metadata Checklist latest version to existing projects.
-
+# Mappings
+Provided here are mappings from the Experiments Metadata Checklist latest version to existing projects and platforms data models.
 
 | Platform / Project                                                                                 | Data Model                                                                                                             | Mapping                      |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------|
