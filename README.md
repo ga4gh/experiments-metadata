@@ -20,7 +20,13 @@ Two documents are being presented for this first version of the checklist:
 * [The Mappings section](mappings/README.md) provides a mapping of existing platforms and projects to the GA4GH Experiments Metadata Checklist.
 * [The Use Cases section](use_cases/README.md) provides more detail about why and how one can use this checklist.
 
-## Useful documentation
+## Documentation
+
+### Introductory video
+
+[This video](https://us02web.zoom.us/rec/share/Kmd0MLvoPVKDIDx4cp8LdAteGdZM30EKtA33MRRnZ7IBWt6xXtvdFLxF8nsCTKWQ.w1tOxxUcQ8WMouBi) explains the rationale behind the creation of the Experiments Metadata Checklist, highlighting key use cases and outlining future plans.
+
+### Relevant links
 
 * [Record of past decisions](https://docs.google.com/document/d/1zyIij2YPpI9J8uJKH71mzPLK-vP7Nza90BZ8zkd56og/edit?tab=t.0#bookmark=id.4js2a3jhlsa6)
 * [Meetings Agenda and Minutes](https://docs.google.com/document/d/1FPgOT39dINkeVj0S4oeumzJcooGOcVcCIIGc4icXoyU/edit)
