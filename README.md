@@ -17,9 +17,8 @@ Two documents are being presented for this first version of the checklist:
 * [Identifiers](./identifiers.md): This checklist contains identifiers that are relevant to include with a genomic dataset.
 
 ## Mappings / Implementations
-* [This section](mappings/README.md) provides a mapping of existing platforms and projects to the Experiments Metadata Checklist.
-* It is currently the semantic mappings.
-* [Use cases](use_cases/README.md) provides more detail about why and how one can use this checklist.
+* [The Mappings section](mappings/README.md) provides a mapping of existing platforms and projects to the GA4GH Experiments Metadata Checklist.
+* [The Use Cases section](use_cases/README.md) provides more detail about why and how one can use this checklist.
 
 ## Useful documentation
 
