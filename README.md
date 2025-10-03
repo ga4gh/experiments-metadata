@@ -19,6 +19,15 @@ In the first phase, the group will focus exclusively on genomic sequencing instr
 
 The following topics are therefore considered out of scope (and will remain so): clinical data, biological sample descriptors, downstream data processing, and analysis. The discussions revolve around the content of the checklist, rather than the formats, leaving the latter to the DaMaSC sub-working group.
 
+## How to use this checklist
+
+### Implementing the checklist in your new resource
+If you are creating a new resource (dataset / project / platform) and would like to implement this checklist, we suggest having a look at both the "core" and "identifiers" sections, and consider how each property could apply and be inserted in your data model. For any question on specific properties, we can provide help if you open an issue in this GitHub.
+
+### Map your existing resource to the checklist
+Please have a look at our [mappings](./mappings/README.md) section.
+
+
 ## Core Properties Checklist
 Two documents are being presented for this first version of the checklist:
 * [Core](./core.md): This checklist contains properties that are relevant to any sequencing assay.
