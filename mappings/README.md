@@ -9,6 +9,10 @@ ENA and IHEC were strong contributors to the checklist’s development, which ex
 | [International Human Epigenome Consortium](https://ihec-epigenomes.org/)                           | [Available here](https://github.com/IHEC/ihec-ecosystems/blob/master/docs/metadata/2.0/Ihec_metadata_specification.md) | [IHEC.md](IHEC.md)           |
 | [INSDC/ENA metadata](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/metadata.html) | [Available here](https://ena-docs.readthedocs.io/en/latest/submit/general-guide/metadata.html)                         | [INSDC_ENA.md](INSDC_ENA.md) |
 
-
+## Mapping to your existing resources
+We are looking to add in these pages mappings to additional datasets, projects and platforms. If you have such resources and would like them to be listed in the table above, please open an issue in this GitHub, providing:
+* The name of your resource, and URL
+* A link to your data model
+* A mapping of the checklist properties to the data model, using this [template](./template.md)
 
 
