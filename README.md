@@ -37,9 +37,9 @@ Two documents are being presented for this first version of the checklist:
 * [The Mappings section](mappings/README.md) provides a mapping of existing platforms and projects to the GA4GH Experiments Metadata Checklist.
 
 ## Future plans
-While the current checklist represents version 1 of the standard, the GA4GH Experiments Metadata Standard group is actively planning enhancements for future releases. These will include:
+While the current checklist represents the first version of the standard, the GA4GH Experiments Metadata Standard group is actively planning enhancements for future releases. These will include:
 * **Categories:** A key upcoming milestone is to define further properties specific to various genomic sequencing domains, such as Transcriptomics, Single-Cell Sequencing, Methylation, and Targeted Sequencing. Progress in each category will **depend on the level of engagement from the respective communities** to help shape and validate these specific properties.
-* **Ontologies:** As we suggest ontologies, guided by GA4GH TASC recommendations, where appropriate we aim to cover all the necessary terms to describe each concept. Initial work has focused on instrument-related terms using OBI and GENEPIO, and this effort will continue for other properties.
+* **Ontologies:** As we suggest ontologies, guided by GA4GH TASC recommendations, we aim to cover the necessary terms to describe each concept, where appropriate. Initial work has focused on instrument-related terms using OBI and GENEPIO, and this effort will continue for other properties.
 * **Schema:** Providing an optional schema that implementers can adopt to support the checklist, without making its use mandatory.
 * **Involvement with Beacon:** Enabling Beacon searches on terms covered by the checklist. For instance, finding all RNA-Seq experiments or data that was sequenced using a specific platform. Including the [GA4GH Beacon](https://github.com/ga4gh-beacon/specification-v2) and the [GA4GH Discovery Search](https://github.com/ga4gh-discovery/search-api).
 * **Supporting Data Generators/repositories:** We are actively working on supporting implementations of the standard in the wider data ecosytems that help to generate, store and surface genomics data.
