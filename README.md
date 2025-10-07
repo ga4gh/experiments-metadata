@@ -38,10 +38,13 @@ Two documents are being presented for this first version of the checklist:
 
 ## Future plans
 While the current checklist represents version 1 of the standard, the GA4GH Experiments Metadata Standard group is actively planning enhancements for future releases. These will include:
+* **Categories:** A key upcoming milestone is to define further properties specific to various genomic sequencing domains, such as Transcriptomics, Single-Cell Sequencing, Methylation, and Targeted Sequencing. Progress in each category will **depend on the level of engagement from the respective communities** to help shape and validate these specific properties.
+* **Ontologies:** As we suggest ontologies, guided by GA4GH TASC recommendations, where appropriate we aim to cover all the necessary terms to describe each concept. Initial work has focused on instrument-related terms using OBI and GENEPIO, and this effort will continue for other properties.
 * **Schema:** Providing an optional schema that implementers can adopt to support the checklist, without making its use mandatory.
-* **Ontologies:** As we suggest ontologies, guided by GA4GH TASC recommendations, we aim to ensure they cover all the necessary terms to describe each concept. Initial work has focused on instrument-related terms using OBI and GENEPIO, and this effort will continue for other properties.
-* **Categories:** A key upcoming milestone is to define properties specific to various genomic sequencing domains, such as Transcriptomics, Single-Cell Sequencing, Methylation, and Targeted Sequencing. Progress in each category will depend on the level of engagement from the respective communities to help shape and validate these lists.
 * **Involvement with Beacon:** Enabling Beacon searches on terms covered by the checklist. For instance, finding all RNA-Seq experiments or data that was sequenced using a specific platform.
+* **Supporting Implementations:** We are actively working on supporting implementations of the standard, including the [GA4GH Beacon](https://github.com/ga4gh-beacon/specification-v2) and the [GA4GH Discovery Search](https://github.com/ga4gh-discovery/search-api).
+* **Supporting Data Models:** We are actively working on supporting data models that implement the standard and will iteratively learn from this. 
+* **Supporting Data Analysis:** We are actively working on supporting data analysis tools that implement the standard, including the [GA4GH Data Analysis Service](https://github.com/ga4gh-daks/ga4gh-daks-specification).
 * **Comments received:** Many issues exist in this GitHub repository, that have been assigned to upcoming versions.
 
 ## Documentation
