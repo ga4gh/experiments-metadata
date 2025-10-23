@@ -37,6 +37,16 @@ Two documents are being presented for this first version of the checklist:
 ## Mappings / Implementations
 * [The Mappings section](mappings/README.md) provides a mapping of existing platforms and projects to the GA4GH Experiments Metadata Checklist.
 
+## Future plans
+While the current checklist represents the first version of the standard, the GA4GH Experiments Metadata Standard group is actively planning enhancements for future releases. These will include:
+* **Categories:** A key upcoming milestone is to define further properties specific to various genomic sequencing domains, such as Transcriptomics, Single-Cell Sequencing, Methylation, and Targeted Sequencing. Progress in each category will <ins>depend on the level of engagement from the respective communities</ins> to help shape and validate these specific properties.
+* **Ontologies:** As we suggest ontologies, guided by GA4GH TASC recommendations, we aim to cover the necessary terms to describe each concept, where appropriate. Initial work has focused on instrument-related terms using OBI and GENEPIO, and this effort will continue for other properties.
+* **Schema:** Providing an optional schema that implementers can adopt to support the checklist, without making its use mandatory.
+* **Involvement with Beacon:** Enabling [GA4GH Beacon](https://github.com/ga4gh-beacon/beacon-v2) searches on terms covered by the checklist. This will enable, for instance, to query a Beacon node for all RNA-Seq experiments or data that was sequenced using a specific platform.
+* **Supporting data generators and repositories:** We are actively supporting implementations of the standard in wider data ecosytems that help to generate, store and discover genomics data.
+* **Supporting data processing:** We plan on supporting data tools that want to implement the standard.
+* **Comments received:** Many issues exist in this GitHub repository, that have been assigned to upcoming versions.
+
 ## Documentation
 
 ### Introductory video
