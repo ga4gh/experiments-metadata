@@ -10,7 +10,6 @@ Without metadata explaining the context, researchers cannot make sense of result
 For more information on our group, [please visit our GA4GH web page](https://www.ga4gh.org/product/experiments-metadata-standard/).
 
 ## Scope
-
 ![ga4gh_expmeta_scope.png](img/ga4gh_expmeta_scope.png)
 
 While the term “metadata” can be very broad (data that describes data), this Discovery Workstream subgroup exclusively focuses on the properties of the methodology and equipment  used in a genomic experiment, and more precisely on library preparation and instrument run. It provides context around the preparation of biological samples into libraries for a given laboratory experiment run, and the execution context for that run. Interoperability with other GA4GH standards will be key to the adoption of the standard.
@@ -27,6 +26,8 @@ If you are creating a new resource (dataset / project / platform) and would like
 ### Map your existing resource to the checklist
 Please have a look at our [mappings](./mappings/README.md) section.
 
+## GA4GH Product Maturity Level
+The Experiments Metadata Checklist currently has one feature, the core checklist, and its maturity level is "Trial Use". For more information about the GA4GH Product Maturity Levels, please refer to the [definition document](https://docs.google.com/document/d/1w3NjVuwfWoiq4dJOCuXbiA-ZYsYqklg3w844l4pYsBQ/).
 
 ## Core Properties Checklist
 Two documents are being presented for this first version of the checklist:
