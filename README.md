@@ -1,4 +1,6 @@
-# GA4GH Experiments Metadata Standard
+# Expmeta - GA4GH Experiments Metadata Standard
+
+<img src="img/Expmeta_owl.png" width="200">
 
 ## Purpose of the working group
 Our main objective is to specify the minimum information needed to characterise a genomic experiment.
